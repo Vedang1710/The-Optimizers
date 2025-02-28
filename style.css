@@ -41,7 +41,7 @@
 }
 .button{
     padding: 10px 20px;
-    font-size: 20px;
+    font-size: 30px;
     color: white;
     background-color: blueviolet;
     border: none;
@@ -51,10 +51,6 @@
     margin-top: 20px;
     transform: 0.2s ease;
     top: 500px;
-    position: absolute;
-    
-    
-
 }
 .button:hover{
     background-color: #4CAF50;
@@ -64,6 +60,51 @@
     transform: scale(0.95);
     background-color: aqua;
  }
+ .covid-image11{
+    width: 600px;
+    height: 400px;
+    position: absolute;
+
     
 
+ }
+ .covid-image15{
+    width: 800px;
+    height: 400px;
+    right: 10px;
+    position: absolute;
 
+ }    
+ .covid-image16{
+    width: 600px;
+    height: 400px;
+    top: 400px;
+    position:absolute;
+    left: 25%;
+
+ }
+ .covid-image12{
+    width: 600px;
+    height: 400px;
+    position: absolute;
+    
+
+ }
+ .covid-image13{
+    width: 800px;
+    height: 400px;
+    right: 10px;
+    position: absolute;
+
+ }    
+ .covid-image14{
+    width: 600px;
+    height: 400px;
+    top: 400px;
+    position:absolute;
+    left: 25%;
+
+ }
+.text{
+    font-size: 2em;
+}
